@@ -143,3 +143,7 @@ files.
   from the uniform distribution only at j = 0 and j = 1728, an O(1/p) effect.
 * **Same results everywhere.** Results depend only on `--seed` and are the same
   under cypari2 and cypari.
+
+ ## License
+
+MIT
